@@ -8,9 +8,9 @@
 rur-ple_1.0.1.exe 부터 설치해주시고 rur-ple kor_src/RUR-PLE 을 붙혀넣어서 실행하셔도되고, <br/>
 RUR-PLE_korean plus폴더만 실행켜도됩니다.<br/>
 굳이 원하시는분들을 위한 예전 한글패치 인스톨러도 공개합니다.<br/>
-<br/>
 ##파이썬 버전<br/>
 소스 수정은 파이썬 2.5.4로 작업되었습니다.<br/>
+#한국어 변환 스크린샷
 ![ScreenShot](https://github.com/minwook-shin/RUR-PLE-korean-project/blob/master/%ED%95%9C%EA%B5%AD%EC%96%B4.JPG)
 ##실행 스크린샷<br/>
 ![ScreenShot](https://github.com/minwook-shin/RUR-PLE-korean-project/blob/master/%EC%A0%81%EC%9A%A9%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7.JPG)
