@@ -11,8 +11,8 @@ or RUR-PLE_korean plus folders you can switch off running.<br/>
 
 Also open to old Korean patch installer.<br/>
 ##Python Version<br/>
-소스 수정은 파이썬 2.5.4로 작업되었습니다.<br/>
-#한국어 변환 스크린샷
+Source modification has been working with Python 2.5.4.<br/>
+#Korean converts Screenshots
 ![ScreenShot](https://github.com/minwook-shin/RUR-PLE-korean-project/blob/master/%ED%95%9C%EA%B5%AD%EC%96%B4.JPG)
-##실행 스크린샷<br/>
+##Running Screenshots<br/>
 ![ScreenShot](https://github.com/minwook-shin/RUR-PLE-korean-project/blob/master/%EC%A0%81%EC%9A%A9%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7.JPG)
