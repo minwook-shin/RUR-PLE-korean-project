@@ -1,9 +1,15 @@
 # RUR-PLE-korean-project
-##The RURPLE Korean project was interrupted in 2014.
+##The RURPLE Korean project was interrupted in 2014. (Uploaded in 2015 github)
 The project is designed to receive education in the Samsung "Junior Software Academy". <br/>
 In fact, this program is discontinued in 2012, but ... I wanted to use more progress has been localized.<br/>
 It is now operating in the web. http://reeborg.ca <br/>
+People want to upload in the installer.<br/>
+<br/>
+Installing from rur-ple_1.0.1.exe, if the paste is executed rur-ple kor_src/RUR-PLE <br/>
 
+or RUR-PLE_korean plus folders you can switch off running.<br/>
+
+Also open to old Korean patch installer.<br/>
 ##Python Version<br/>
 Source modification has been working with Python 2.5.4.<br/>
 #Korean converts Screenshots
