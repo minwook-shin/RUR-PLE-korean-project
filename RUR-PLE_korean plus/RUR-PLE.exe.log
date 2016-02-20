@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "rur_start.py", line 55, in <module>
-  File "translation.py", line 114, in <module>
-  File "translation.py", line 81, in build_dict
-IOError: [Errno 2] No such file or directory: 'C:\\Users\\user3\\Desktop\\RUR-PLE\\rur_locale\\kr\\korean.po'
-Traceback (most recent call last):
-  File "rur_start.py", line 56, in <module>
-WindowsError: [Error 2] : 'kr'
