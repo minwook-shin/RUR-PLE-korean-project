@@ -22,5 +22,5 @@ This project has been outdated and will not receive any contributions.
 
 ## License
 
-This project is licensed under the GPL3 License - see the [LICENSE]( 
+This project is licensed under the GPL2 License - see the [LICENSE]( 
 LICENSE) file for details
