@@ -18,7 +18,7 @@ now operating in the [web](http://reeborg.ca).
 
 ## Contributing
 
-This project has been out of date and will not receive any contributions.
+This project has been outdated and will not receive any contributions.
 
 ## License
 
